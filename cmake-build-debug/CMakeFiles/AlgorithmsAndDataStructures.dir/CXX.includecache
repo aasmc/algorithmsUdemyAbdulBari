@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/010119/CLionProjects/AlgorithmsAndDataStructures/Recursion/Example.cpp
+iostream
+C:/Users/010119/CLionProjects/AlgorithmsAndDataStructures/Recursion/iostream
+string
+C:/Users/010119/CLionProjects/AlgorithmsAndDataStructures/Recursion/string
+functional
+C:/Users/010119/CLionProjects/AlgorithmsAndDataStructures/Recursion/functional
+
